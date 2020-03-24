@@ -27,6 +27,6 @@ fields:
   config:
     min: 
     max: 
-    labelField: 
+    labelField: id
   label: Milestone Tasks
   description: Tasks within the current milestone
