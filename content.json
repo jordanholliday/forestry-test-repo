@@ -10,24 +10,6 @@
     }
   ],
   "milestones": [
-    {
-      "id": "MILESTONE_BUY_SIDE",
-      "label": "Buy Side",
-      "tasks": [
-        {
-          "id": "FIND_NEW_HOME",
-          "name": "Find Your Brand New Home",
-          "tagline": "",
-          "description": ""
-        }
-      ]
-    },
-    {
-      "id": "MILESTON_SELL_SIDE",
-      "label": "Sell Side",
-      "tasks": [
 
-      ]
-    }
   ]
 }
