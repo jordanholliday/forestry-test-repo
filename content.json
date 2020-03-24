@@ -14,7 +14,12 @@
       "id": "MILESTONE_BUY_SIDE",
       "label": "Buy Side",
       "tasks": [
-
+        {
+          "id": "FIND_NEW_HOME",
+          "name": "Find Your Brand New Home",
+          "tagline": "",
+          "description": ""
+        }
       ]
     },
     {
