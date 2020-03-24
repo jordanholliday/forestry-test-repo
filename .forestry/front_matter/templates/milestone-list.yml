@@ -1,4 +1,17 @@
 ---
 label: MILESTONE LIST
 hide_body: false
-fields: []
+fields:
+- name: milestones
+  type: field_group_list
+  fields:
+  - name: milestone
+    type: include
+    config: {}
+    template: milestone
+    label: Milestone
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Milestones
