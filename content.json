@@ -1,0 +1,12 @@
+{
+  "id": "MILESTONE_BUY_SIDE",
+  "label": "Buyside",
+  "tasks": [
+    {
+      "id": "FIND_NEW_HOME",
+      "label": "Find Your Brand New Home",
+      "tagline": "<p>Tagline with <strong>rich </strong>text.</p>",
+      "detailedDescription": "Crummy description."
+    }
+  ]
+}

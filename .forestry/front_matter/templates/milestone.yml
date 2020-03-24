@@ -54,3 +54,5 @@ fields:
     labelField: 
   label: TASKS
   description: all tasks within this milestone
+pages:
+- content.json
