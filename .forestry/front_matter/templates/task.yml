@@ -1,4 +1,36 @@
 ---
 label: Task
 hide_body: true
-fields: []
+fields:
+- name: id
+  type: text
+  config:
+    required: false
+  label: Task ID
+  description: must match the task ID in our database
+- name: name
+  type: text
+  config:
+    required: false
+  label: Task Name
+  description: human-friendly name for this task
+- name: tagline
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: html-blocks
+  label: Task Tagline
+  description: Brief summary of what this task involves
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: html-blocks
+  label: Task Description
+  description: Detailed summary of what this task involves
