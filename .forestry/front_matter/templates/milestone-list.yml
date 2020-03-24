@@ -5,12 +5,12 @@ fields:
 - name: milestones
   type: field_group_list
   fields:
-  - name: tasks
+  - name: milestones
     type: include
     config: {}
-    template: task
-    label: Tasks
-    description: All tasks in the current milestone
+    template: milestone
+    label: Milestones
+    description: All milestones across all experience types
   config:
     min: 
     max: 
