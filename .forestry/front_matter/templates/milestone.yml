@@ -1,6 +1,7 @@
 ---
 label: MILESTONE
 hide_body: true
+display_field: id
 fields:
 - name: id
   type: text
