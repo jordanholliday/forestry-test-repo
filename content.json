@@ -14,9 +14,14 @@
     },
     {
       "id": "MILESTONE_BUY_SIDE",
-      "label": "Milestone Buy Side",
+      "label": "Buy Side",
       "tasks": [
-
+        {
+          "id": "FIND_NEW_HOME",
+          "name": "Find Your New Home",
+          "tagline": "<p>Rich text <em>up here</em>.</p>",
+          "description": "<p><strong>This is really important.</strong></p><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut tempore pariatur quos eaque quidem voluptates magni. Illo, numquam fugiat alias, assumenda minima vero laudantium repellendus, non optio doloribus velit officia aliquam eveniet! A tempore, aliquid amet vel quidem fuga impedit. Impedit assumenda laudantium iusto quae iste iure. Fugit, asperiores aperiam?</p>"
+        }
       ]
     }
   ]
