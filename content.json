@@ -8,5 +8,19 @@
       "tagline": "<p>Tagline with <strong>rich </strong>text.</p>",
       "detailedDescription": "Crummy description."
     }
+  ],
+  "milestones": [
+    {
+      "id": "MILESTONE_BUY_SIDE",
+      "label": "Buy Side",
+      "tasks": [
+        {
+          "label": "Find New Home",
+          "tagline": "<p>Tagline with some <strong>rich</strong> text.</p>",
+          "detailedDescription": "",
+          "id": "FIND_NEW_HOME"
+        }
+      ]
+    }
   ]
 }
