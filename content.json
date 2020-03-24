@@ -11,15 +11,17 @@
   ],
   "milestones": [
     {
-      "id": "MILESTONE_BUY_SIDE",
-      "label": "Buy Side Milestone",
+      "id": "",
+      "label": "",
       "tasks": [
-        {
-          "id": "FIND_NEW_HOME",
-          "name": "Find Your Brand New Home",
-          "tagline": "<p>Tagline with some <strong>rich</strong> text.</p>",
-          "description": "<p>List of items to complete:</p><ol><li><p>One</p></li><li><p>Two</p></li><li><p>Three</p></li></ol><p>Key things to remember:</p><ul><li><p>One</p></li><li><p>Two</p></li><li><p>Three</p></li></ul>"
-        }
+
+      ]
+    },
+    {
+      "id": "MILESTON_SELL_SIDE",
+      "label": "Sell Side",
+      "tasks": [
+
       ]
     }
   ]
