@@ -1,4 +1,56 @@
 ---
 label: MILESTONE
 hide_body: true
-fields: []
+fields:
+- name: id
+  type: text
+  config:
+    required: false
+  label: ID
+  description: must match the ID in our database
+- name: label
+  type: text
+  config:
+    required: false
+  label: label
+  description: readable milestone name
+- name: tasks
+  type: field_group_list
+  fields:
+  - name: id
+    type: text
+    config:
+      required: false
+    label: ID
+    description: must match the ID in our database
+  - name: label
+    type: text
+    config:
+      required: false
+    label: Label
+    description: the readable task name
+  - name: tagline
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: html-blocks
+    label: Tagline
+    description: brief summary of what this task involves
+  - name: detailedDescription
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Detailed Description
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: TASKS
+  description: all tasks within this milestone
