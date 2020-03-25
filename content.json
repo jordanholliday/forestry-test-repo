@@ -1,19 +1,25 @@
 {
   "milestones": [
     {
-      "id": "BNS_SHOP",
-      "forestryLabel": "Buy & Sell - Home Shopping",
-      "tasks": [
-
-      ]
-    },
-    {
       "id": "BNS_SELL",
       "forestryLabel": "Buy & Sell - Sell Side",
       "tasks": [
         {
           "id": "",
           "forestryLabel": "",
+          "faqs": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "id": "BNS_SHOP",
+      "forestryLabel": "Buy & Sell - Home Shopping",
+      "tasks": [
+        {
+          "id": "SCHEDULE_LME",
+          "forestryLabel": "Schedule Home Advisor Visit",
           "faqs": [
 
           ]
