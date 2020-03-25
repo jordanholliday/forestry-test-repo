@@ -14,7 +14,7 @@ fields:
   config:
     min: 
     max: 
-    labelField: label
+    labelField: forestryLabel
   label: Milestones
   description: all milestones across all experience types
 pages:
