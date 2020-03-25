@@ -23,6 +23,10 @@
           "forestryLabel": "Schedule Home Advisor Visit",
           "faqs": [
             {
+              "question": "Is Orchard a home flipper?",
+              "answer": "<p>No, unlike home flippers who buy distressed homes at a deep discount, Orchard <strong>only</strong> buys homes in good condition and pays fair prices based on its valuation of the home. </p><p>Orchard can also pair you with a licensed local real estate agent to list your home, so you can test the market to get the highest possible price before accepting our cash offer.</p>"
+            },
+            {
               "question": "Where does Orchard operate?",
               "answer": "<p>We currently serve customers in:</p><ul><li><p>Atlanta, GA</p></li><li><p>Austin, TX</p></li><li><p>Dallas-Fort Worth, TX</p></li><li><p>Denver, CO</p></li><li><p>San Antonio, TX</p></li></ul>"
             }
