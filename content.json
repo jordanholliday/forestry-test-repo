@@ -23,6 +23,10 @@
           "forestryLabel": "Schedule Home Advisor Visit",
           "faqs": [
             {
+              "question": "Can I negotiate the Orchard offer?",
+              "answer": "<p>Our goal is to make selling simple and streamlined by giving you a fair, competitive offer without the uncertainty of negotiations. However, if you believe we missed an important detail about your home, let us know by emailing us at <a href=\"mailto:support@orchardhomes.com\">support@orchardhomes.com</a>. Our team will review the new information to see a revised offer is warranted.</p>"
+            },
+            {
               "question": "Is Orchard a home flipper?",
               "answer": "<p>No, unlike home flippers who buy distressed homes at a deep discount, Orchard <strong>only</strong> buys homes in good condition and pays fair prices based on its valuation of the home. </p><p>Orchard can also pair you with a licensed local real estate agent to list your home, so you can test the market to get the highest possible price before accepting our cash offer.</p>"
             },
