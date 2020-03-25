@@ -16,6 +16,15 @@ fields:
   label: Forestry Label
   description: This is only for identifying the task within Foresty. Never displayed
     in the UI.
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: html-blocks
+  label: Description
 - name: faqs
   type: field_group_list
   fields:
