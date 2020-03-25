@@ -35,3 +35,17 @@ fields:
       format: html-blocks
   label: Task Description
   description: Detailed summary of what this task involves
+- name: faqs
+  type: field_group_list
+  fields:
+  - name: faq
+    type: include
+    config: {}
+    template: faq
+    label: FAQ
+  config:
+    min: 
+    max: 
+    labelField: question
+  label: FAQs
+  description: FAQs to display alongside this task
