@@ -1,6 +1,13 @@
 {
   "milestones": [
     {
+      "id": "BNS_SHOP",
+      "forestryLabel": "Buy & Sell - Home Shopping",
+      "tasks": [
+
+      ]
+    },
+    {
       "id": "BNS_SELL",
       "forestryLabel": "Buy & Sell (Sell Side)",
       "tasks": [
