@@ -37,6 +37,7 @@ fields:
     wysiwyg: true
     schema:
       format: html-blocks
+    min: '1'
   showOnly:
     field: overrideNextSteps
     value: true
