@@ -7,8 +7,8 @@ fields:
   type: text
   config:
     required: false
-  label: ID
-  description: must match the ID in our database
+  label: Milestone ID
+  description: Must match the milestone ID in our database
 - name: forestryLabel
   type: text
   config:
