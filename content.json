@@ -38,7 +38,7 @@
             }
           ],
           "description": "<p><strong>This is really important.</strong></p><p>These are the steps you must follow:</p><ol><li><p>One</p></li><li><p>Two</p></li><li><p>Three</p></li></ol><p>You can work with Orchard to buy your dream home without contingencies and sell your current home for market price. Orchard also works with customers that are only looking to sell, allowing them to sell without showings, repairs, or hassle.</p>",
-          "overrideNextSteps": true,
+          "overrideNextSteps": false,
           "nextSteps": "<p>Some next steps content is <strong>here</strong>.</p>"
         }
       ]
