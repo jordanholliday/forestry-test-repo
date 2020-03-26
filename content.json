@@ -4,16 +4,7 @@
       "id": "BNS_SELL",
       "forestryLabel": "Buy & Sell - Sell Side",
       "tasks": [
-        {
-          "id": "",
-          "forestryLabel": "",
-          "faqs": [
 
-          ],
-          "description": "",
-          "overrideNextSteps": false,
-          "nextSteps": ""
-        }
       ]
     },
     {
